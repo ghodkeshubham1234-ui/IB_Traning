@@ -1,0 +1,25 @@
+s1={1,2,3,4,5,6,6,6,6,7,8,9,10,"a","b"}
+print(type(s1))
+print(s1)
+"""print(s1)
+print(s1)
+s1.add("xyz")
+print(s1)
+s1.add("pqr")
+print(s1)
+s1.update([11,12,13,14])
+print(s1)
+s1.remove("pqr")
+print(s1)
+s1.discard(55)
+print(s1)
+s1.discard(11)
+print(s1)"""
+
+# s1.remove(12,13)
+s2={10,20,33,44,55}
+print(s2)
+s2.pop()
+print(s2)
+s1.clear()
+print(s1)
